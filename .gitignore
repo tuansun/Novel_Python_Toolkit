@@ -1,0 +1,13 @@
+# Không tải các file nháp và chương truyện lên
+Chapters/
+Data_Summaries/
+Data_Worldbuilding/
+Chapters_Edited/
+Project_Settings.json
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
